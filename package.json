@@ -1,0 +1,14 @@
+{
+  "name": "repo-using-markdown-magic",
+  "version": "1.0.0",
+  "description": "Example of how to use markdown-magic",
+  "main": "index.js",
+  "scripts": {
+    "docs": "node scripts/generate-docs.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-magic": "0.0.4"
+  }
+}
